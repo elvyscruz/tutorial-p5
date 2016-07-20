@@ -18,7 +18,7 @@ Ej javascript las variables mas usuadas pueden ser los siguientes tipos:
 
 Aqui debajo, declaramos cuatro variables con valores numericos que seran usadas en nuestro programa. Tambien usamos las variables de la libreria p5 __mouseX__ y __mouseY__ que indican los valores de la posicion del mouse.
 
-```
+```javascript
 var ancho = 400;
 var alto = 400;
 var tamX = 100;
