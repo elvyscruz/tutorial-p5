@@ -2,7 +2,7 @@
 
 Las variables son identificadores que permiten guardar algun valor. Estos valores pueden ser reasignados y cambiar en cualquier momento..
 
-Como vemos en el ejemplo mas abajo, usamos la palabra var para declarar una variable, luego el nombre de la variable, luego el signo de numero y luego el valor de la variable.
+Como vemos en el ejemplo mas abajo, usamos la palabra var para declarar una variable, luego el nombre de la variable, luego el signo de igual y luego el valor de la variable.
 
 Ej javascript las variables mas usuadas pueden ser los siguientes tipos:
 
