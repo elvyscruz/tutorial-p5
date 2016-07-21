@@ -15,6 +15,7 @@ Ej javascript las variables mas usuadas pueden ser los siguientes tipos:
 * Undefined, undefined
 * Entre otras
 
+Por ahora solo debes aprender el uso de variables numericas y texto. Mas adelante en otra ocasion, aprenderas mas sobre los otros tipos de variables.
 
 Aqui debajo, declaramos cuatro variables con valores numericos que seran usadas en nuestro programa. Tambien usamos las variables de la libreria p5 __mouseX__ y __mouseY__ que indican los valores de la posicion del mouse.
 
