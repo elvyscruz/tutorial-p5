@@ -11,3 +11,14 @@ ellipse(50,50,100,100);
 }
 
 ```
+
+La estructura basica que debe seguir cada programa (sketch) de p5js es la siguiente:
+
+```javascript
+function setup(){
+}
+
+function draw(){
+}
+```
+Dentro de los corchetes {} de las funciones **setup() y draw()** escribiremos nuestro codigo para instruir a p5js lo que vayamos a realizar. La funcion setup se ejecuta una sola vez cuando inicia el programa, y la funcion draw se ejecuta indefinidamente hasta que finaliza el programa.
