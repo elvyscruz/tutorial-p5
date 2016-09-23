@@ -16,4 +16,4 @@ Javascript es un lenguaje de programacion de uso muy extendido que se utiliza pr
 [P5js](http://p5js.org) es una libreria de javascript inspirada en el entorno de programacion llamado [Processing](http://processing.org/) creada con el objetivo de hacer de la programacion mas accesible para artistas, disenadores, educadores y principiantes. P5 utiliza el concepto de boceto (sketch) y contiene funcionalidades basicas de dibujo y otros elementos multimedia como son texto, webcam, video y sonido.
 
 ### Como voy a usar este tutorial?
-
+Puedes leer en linea los temas o descargarlo en tu computadora. Los temas estan organizados por carpetas segun el topico que se trate. Debes de descargar el editor p5 para que vayas practicando cada tema segun se indica.
