@@ -2,7 +2,7 @@
 
 Este repositorio contiene un tutorial de introduccion a la programacion utilizando el lenguaje javascript y la libreria [p5js](https://p5js.org). Se puede ver y descargar el codigo de las diferentes temas que vayamos tratando. El codigo esta organizado en carpeta segun el tema que se trate cada semana.
 
-Se recomienda utilizar el Editor de P5 para ejecutar los programas. Pueden descargar el editor de p5 [en este enlace](http://p5js.org/download). 
+Para hacer las practicas que propone el tutorial, pueden utilizar el editor en linea de p5js disponible [en este enlace](https://editor.p5js.org). 
 
 La libreria p5 nos va a permitir dibujar figuras geometricas (lineas, circulos, cuadrados, etc) en el navegador, de forma tal que veamos visualmente el efecto que tiene nuestro codigo de programacion. La idea es aprender los conceptos de programacion utilizando las artes visuales.
 
