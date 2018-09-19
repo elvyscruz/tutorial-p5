@@ -13,7 +13,7 @@ Programacion consiste en instruir a la computadora a realizar una tarea especifi
 Javascript es un lenguaje de programacion de uso muy extendido que se utiliza principalmente en paginas webs, ademas es utilizado en aplicaciones de servidor, aplicaciones moviles, robotica, etc. Vamos a utilizar javascript porque es un lenguaje facil de aprender y nos sera muy util para proyectos web y multimedia.
 
 ### Que es P5js ?
-[P5js](http://p5js.org) es una libreria de javascript inspirada en el entorno de programacion llamado [Processing](http://processing.org/) creada con el objetivo de hacer de la programacion mas accesible para artistas, disenadores, educadores y principiantes. P5 utiliza el concepto de boceto (sketch) y contiene funcionalidades basicas de dibujo y otros elementos multimedia como son texto, webcam, video y sonido.
+[P5js](http://p5js.org/es) es una libreria de javascript inspirada en el entorno de programacion llamado [Processing](http://processing.org/) creada con el objetivo de hacer de la programacion mas accesible para artistas, disenadores, educadores y principiantes. P5 utiliza el concepto de boceto (sketch) y contiene funcionalidades basicas de dibujo y otros elementos multimedia como son texto, webcam, video y sonido.
 
 ### Como voy a usar este tutorial?
 Puedes leer en linea los temas en linea y descargar los ejemplos en tu computadora para que los puedas probar y modificar. Los temas estan organizados por carpetas segun el topico que se trate. Debes de descargar el editor p5 para que vayas practicando cada tema segun se indica.
