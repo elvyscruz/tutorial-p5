@@ -1,10 +1,10 @@
 # Introduccion a la Programacion con P5
 
-Este repositorio contiene un tutorial de introduccion a la programacion utilizando el lenguaje javascript y la libreria [p5js](https://p5js.org). Se puede ver y descargar el codigo de las diferentes temas que vayamos tratando. El codigo esta organizado en carpeta segun el tema que se trate cada semana.
+Este repositorio contiene un tutorial de introduccion a la programacion utilizando el lenguaje javascript y la libreria [p5js](https://p5js.org/es). Se puede ver y descargar el codigo de las diferentes temas que vayamos tratando. El codigo esta organizado en carpeta segun el tema que se trate cada semana.
 
 Para hacer las practicas que propone el tutorial, pueden utilizar el editor en linea de p5js disponible [en este enlace](https://editor.p5js.org). Es recomendable que te registres como usuario en el editor en linea, para que puedas guardar las practicas realizadas.
 
-La libreria p5 nos va a permitir dibujar figuras geometricas (lineas, circulos, cuadrados, etc) en el navegador, de forma tal que veamos visualmente el efecto que tiene nuestro codigo de programacion. La idea es aprender los conceptos de programacion utilizando las artes visuales.
+La libreria p5 nos va a permitir dibujar en el navegador (ej. lineas, circulos, cuadrados, etc), de forma tal que veamos visualmente el efecto que tiene nuestro codigo de programacion. La idea es aprender los conceptos de programacion utilizando las artes visuales. La referencia completa de p5js se encuentra en el url [https://p5js.org/es/referece](https://p5js.org/es/reference/).
 
 ### Que es Programacion? 
 Programacion consiste en instruir a la computadora a realizar una tarea especifica. Por ejemplo, podemos indicarle al computador que dibuje un circulo o que colque el fondo de color verde.
